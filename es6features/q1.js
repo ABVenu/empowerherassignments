@@ -1,2 +1,5 @@
-let arr = [1,2,3,4];
-console.log(...arr)
+let obj = {
+    a:1,
+    b:2,
+    c:3
+}
